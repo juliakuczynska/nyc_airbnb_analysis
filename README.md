@@ -18,3 +18,5 @@ From historic brownstones to luxurious Manhattan penthouses, the Big Apple's vib
 - **Guest Ratings & Reviews**: Analyzed rating distributions and correlations between price, location, and guest satisfaction.
 
 This project provides a look into NYC’s Airbnb market, highlighting key trends that shape both host strategies and guest experiences.
+
+[Check out the notebook](https://github.com/juliakuczynska/nyc_airbnb_analysis/blob/main/nyc_airbnb.ipynb)
