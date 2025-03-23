@@ -7,8 +7,8 @@ This project dives into Airbnb data for **New York City**.
 From historic brownstones to luxurious Manhattan penthouses, the Big Apple's vibrant rental market offers endless possibilities, making it one of the platform's most dynamic markets.
 
 ## What we did and discovered
-- **Outliers & Data Cleaning**: We identified extreme price values, including listings priced at $100,000 per night and others at $10, some categorized as “Entire home/apt”—highly unrealistic for NYC. These were removed to ensure accurate analysis.
-- **Impact of Local Law 18 (2023)**: Our data reveals a striking pattern—30 days is the most common minimum stay requirement. This aligns with NYC’s Local Law 18, which mandates that:
+- **Outliers & Data Cleaning**: We identified extreme price values, including listings priced at $100,000 per night and others at $10, some categorized as “Entire home/apt”, highly unrealistic for NYC. These were removed to ensure accurate analysis.
+- **Impact of Local Law 18 (2023)**: Our data reveals a striking pattern - 30 days is the most common minimum stay requirement. This aligns with NYC’s Local Law 18, which mandates that:
   - Hosts must register with the city for stays under 30 days.
   - They must be physically present in the property during short stays.
   - Guests must have full access to the property.
